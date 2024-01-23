@@ -93,8 +93,7 @@ public class CrptApi {
 
         @Data
         public static class Description {
-            private String participantInn;
-
+            private String participant_inn;
         }
 
         @Data
